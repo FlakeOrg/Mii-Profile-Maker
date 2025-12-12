@@ -159,5 +159,5 @@
       gap:0.5rem;
       align-items:center;
       justify-content:flex-start;
-      grid-column: 2 / -1;
+      grid-column: 1 / -1;
     }
